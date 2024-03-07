@@ -1,7 +1,7 @@
 # FireDorks
 
 <div align="center">
-  <img src="images/firedorks.png" width="300px">
+  <img src="images/firedorks.png" width="150px">
 </div>
 
 ***`fireDorks` is a small tool for scraping from Google Search results which can be used with AWS API Gateway.***
